@@ -1,0 +1,7 @@
+pandas
+numpy
+seborn
+matplotlib
+scikit-learn
+xgboost
+-e .
